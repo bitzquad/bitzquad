@@ -1,0 +1,3 @@
+- 👋 Hi, We are @bitzquad
+- 🌱 We are currently developing our infrastructure for future projects
+- 📫 Reach us on bitzquad.com
